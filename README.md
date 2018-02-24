@@ -9,5 +9,5 @@ You have to use PHP dictionary `$_GET["playlist"]` to read the value of  `playli
 ## Student Details
 
 - **Student ID**: u1610145
-- **Student Name**: Mirtolib Saitov
+- **Student Name**: Mirtolip Saitov
 - **Section Number**: 003
